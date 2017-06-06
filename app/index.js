@@ -1,0 +1,1 @@
+console.log("Welcome to ES6 world!! - live from Webpack Server");
